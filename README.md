@@ -12,6 +12,7 @@ A Repository based on YOLOv3-spp weights for real-time Object Detection.
 <a name="about"></a>
 # About This Repository
 This is a repository based on YOLOv3-spp for real-time object detection.
+A nice explaination about YOLOv3 and its Architecture by Valentyn Sichkar can be found [here](https://www.youtube.com/watch?v=vRqSO6RsptU&ab_channel=ValentynSichkar) at youtube.
 
 <a name="run"></a>
 # To Run Image Object Detection
