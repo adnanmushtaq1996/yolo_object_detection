@@ -36,7 +36,9 @@ Store them Under `YOLO_data` Directory.
 
 <a name="op"></a>
 # Sample Real-Time-Output
-A sample example is shown in :![Output](Real-Time-Video-Output.png).
+A sample example is shown in :
+
+![Output](Real-Time-Video-Output.png).
 
 <a name="contact"></a>
 # Contact Me
